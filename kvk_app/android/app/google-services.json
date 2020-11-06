@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "602494407443",
+    "firebase_url": "https://kvk-farmer-s-app.firebaseio.com",
+    "project_id": "kvk-farmer-s-app",
+    "storage_bucket": "kvk-farmer-s-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602494407443:android:b16467ea8683a1bb77c0e6",
+        "android_client_info": {
+          "package_name": "com.kvk.kvk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602494407443-bela3lohmsonnnauq5aklgjtfqodn38f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kvk.kvk_app",
+            "certificate_hash": "e82a4d1f060d16e7040061206045d75bc41ec737"
+          }
+        },
+        {
+          "client_id": "602494407443-jungimhhm4t1lri2sfbsk53tu7j18g52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kvk.kvk_app",
+            "certificate_hash": "e10254efbdccef19710bb08819b9370dd152b296"
+          }
+        },
+        {
+          "client_id": "602494407443-i9htncs54s45bo1d7u4g5ibm259qsup5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl01KwJpTWFnVmcCRfwu1b7gmu55ybvC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602494407443-i9htncs54s45bo1d7u4g5ibm259qsup5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602494407443-vnrj7tvn8uu22ss1278felrc1fm8lops.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kvk.kvk-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
